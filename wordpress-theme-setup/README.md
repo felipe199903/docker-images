@@ -1,7 +1,5 @@
 # docker-wordpress-theme-setup
 
-This repository was created as part of a tutorial on how to [setup a local development environment to build a WordPress theme](https://davidyeiser.com/tutorial/docker-wordpress-theme-setup).
-
 ## Installation
 
 If you don’t have Docker and Docker Compose installed follow the steps outlined in the blog post linked above.
@@ -9,7 +7,7 @@ If you don’t have Docker and Docker Compose installed follow the steps outline
 With Docker installed and running, in Terminal:
 
 ````
-git clone https://github.com/felipe199903/docker-wordpress-theme-setup.git
+git clone https://github.com/felipe199903/docker-images.git
 cd docker-wordpress-theme-setup
 ````
 
