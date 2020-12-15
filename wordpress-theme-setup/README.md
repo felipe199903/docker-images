@@ -8,6 +8,9 @@ With Docker installed and running, in Terminal:
 
 ````
 git clone https://github.com/felipe199903/docker-images.git
+````
+
+````
 cd docker-wordpress-theme-setup
 ````
 
